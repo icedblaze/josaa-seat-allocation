@@ -1,0 +1,25 @@
+READ ME !!!
+
+This is a project to allot seats to students based on their JEE mains and advance marks.
+
+HOW TO RUN THE PROGRAM!!
+
+ - First run the login.c file
+ 
+ - Second run rank.c after completly running login.c
+
+ - Run login.c again to view ranks and input preference list.
+
+ - Lastly run the allot.c to allot the seats
+
+ - Run the login.c to view the alloted seat and to wait/choose/skip.
+
+ - Once all the students have opted the choice to wait/choose/skip, run allot.c again
+
+ - Run login.c to see the alloted seat.
+
+THANK YOU!!!
+by 
+Amrit Krishnan 3122225001008
+Anierudh H S 3122225001012
+Ashiwn V Sundar 3122225001016
